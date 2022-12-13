@@ -1,0 +1,19 @@
+.root {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  width: 800px;
+}
+
+.imageWrapper {
+  width: 45%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.content {
+  width: 55%;
+}

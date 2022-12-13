@@ -1,0 +1,15 @@
+.root {
+  margin: 20px 0;
+}
+
+.headCell {
+  font-weight: bold;
+}
+
+.row {
+  cursor: pointer;
+}
+
+.row:hover {
+  background: #fafafa;
+}
